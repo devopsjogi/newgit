@@ -1,0 +1,3 @@
+hello new file
+this for clean
+hello not delete
